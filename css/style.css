@@ -1,0 +1,332 @@
+body {
+    font-family: arial;
+    font-weight: 500;
+    font-size: 20px;
+    font-style: italic;
+    background-color: #003334;
+    color: white;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+.test1 {
+    margin-top: 20px;
+}
+
+.test1A {
+    min-width: 30px;
+    min-height: 30px;
+    background-color: #127BAE;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 50%;
+    margin: 20px 10px 10px 50px;
+    box-shadow: 4px 3px 5px black;
+    box-sizing: border-box;
+    float: left;
+}
+
+.test1B {
+    min-width: 30px;
+    min-height: 30px;
+    text-align: center;
+    padding-top: 4px;
+    margin: 20px 2px 10px 0px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.test2 {
+    clear: both;
+}
+
+.test2A {
+    min-width: 30px;
+    min-height: 30px;
+    background-color: #00CB79;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 50%;
+    margin: 0px 10px 10px 50px;
+    box-shadow: 4px 3px 5px black;
+    box-sizing: border-box;
+    float: left;
+}
+
+.test2B {
+    min-width: 30px;
+    min-height: 30px;
+    text-align: center;
+    padding-top: 4px;
+    margin: 0px 2px 10px 0px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.development {
+    clear: both;
+}
+
+.development_1 {
+    min-width: 30px;
+    min-height: 30px;
+    background-color: #127BAE;
+    text-align: center;
+    padding-top: 4px;
+    margin: 5px 10px 10px 80px;
+    box-shadow: 4px 3px 5px black;
+    box-sizing: border-box;
+    float: left;
+}
+
+.development_2 {
+    min-width: 30px;
+    min-height: 30px;
+    text-align: center;
+    padding-top: 4px;
+    margin: 5px 2px 10px 0px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.news {
+    clear: both;
+}
+
+.news_1 {
+    min-width: 30px;
+    min-height: 30px;
+    background-color: #00CB79;
+    text-align: center;
+    padding-top: 4px;
+    margin: 0px 10px 10px 80px;
+    box-shadow: 4px 3px 5px black;
+    box-sizing: border-box;
+    float: left;
+}
+
+.news_2 {
+    min-width: 30px;
+    min-height: 30px;
+    text-align: center;
+    padding-top: 4px;
+    margin: 0px 2px 10px 0px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.funny {
+    clear: both;
+}
+
+.funny_1 {
+    min-width: 30px;
+    min-height: 30px;
+    background-color: #6A348C;
+    text-align: center;
+    padding-top: 4px;
+    margin: 0px 10px 10px 80px;
+    box-shadow: 4px 3px 5px black;
+    box-sizing: border-box;
+    float: left;
+}
+
+.funny_2 {
+    min-width: 30px;
+    min-height: 30px;
+    text-align: center;
+    padding-top: 4px;
+    margin: 0px 2px 10px 0px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.test3 {
+    clear: both;
+}
+
+.test3A {
+    min-width: 30px;
+    min-height: 30px;
+    background-color: #6A348C;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 50%;
+    margin: 5px 10px 10px 50px;
+    box-shadow: 4px 3px 5px black;
+    box-sizing: border-box;
+    float: left;
+}
+
+.test3B {
+    min-width: 30px;
+    min-height: 30px;
+    text-align: center;
+    padding-top: 4px;
+    margin: 5px 2px 10px 0px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.test4 {
+    clear: both;
+}
+
+.test4A {
+    min-width: 30px;
+    min-height: 30px;
+    background-color: #00CB79;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 50%;
+    margin: 0px 10px 10px 50px;
+    box-shadow: 4px 3px 5px black;
+    box-sizing: border-box;
+    float: left;
+}
+
+.test4B {
+    min-width: 30px;
+    min-height: 30px;
+    text-align: center;
+    padding-top: 4px;
+    margin: 0px 2px 10px 0px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.test5 {
+    clear: both;
+}
+
+.test5A {
+    min-width: 30px;
+    min-height: 30px;
+    background-color: #6A348C;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 50%;
+    margin: 0px 10px 10px 50px;
+    box-shadow: 4px 3px 5px black;
+    box-sizing: border-box;
+    float: left;
+}
+
+.test5B {
+    min-width: 30px;
+    min-height: 30px;
+    text-align: center;
+    padding-top: 4px;
+    margin: 0px 2px 10px 0px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.test6 {
+    clear: both;
+}
+
+.test6A {
+    min-width: 30px;
+    min-height: 30px;
+    background-color: #127BAE;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 50%;
+    margin: 0px 10px 10px 50px;
+    box-shadow: 4px 3px 5px black;
+    box-sizing: border-box;
+    float: left;
+}
+
+.test6B {
+    min-width: 30px;
+    min-height: 30px;
+    text-align: center;
+    padding-top: 4px;
+    margin: 0px 2px 10px 0px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.articles {
+    clear: both;
+}
+
+.articles_A {
+    min-width: 30px;
+    min-height: 30px;
+    background-color: #127BAE;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 50%;
+    margin: 5px 10px 10px 80px;
+    box-shadow: 4px 3px 5px black;
+    box-sizing: border-box;
+    float: left;
+}
+
+.articles_B {
+    min-width: 30px;
+    min-height: 30px;
+    text-align: center;
+    padding-top: 4px;
+    margin: 5px 2px 10px 0px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.stuff {
+    clear: both;
+}
+
+.stuff_A {
+    min-width: 30px;
+    min-height: 30px;
+    background-color: #00CB79;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 50%;
+    margin: 0px 10px 10px 80px;
+    box-shadow: 4px 3px 5px black;
+    box-sizing: border-box;
+    float: left;
+}
+
+.stuff_B {
+    min-width: 30px;
+    min-height: 30px;
+    text-align: center;
+    padding-top: 4px;
+    margin: 0px 2px 10px 0px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.cat {
+    clear: both;
+}
+
+.cat_A {
+    min-width: 30px;
+    min-height: 30px;
+    background-color: #6A348C;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 50%;
+    margin: 0px 10px 10px 80px;
+    box-shadow: 4px 3px 5px black;
+    box-sizing: border-box;
+    float: left;
+}
+
+.cat_B {
+    min-width: 30px;
+    min-height: 30px;
+    text-align: center;
+    padding-top: 4px;
+    margin: 0px 2px 10px 0px;
+    box-sizing: border-box;
+    float: left;
+}
